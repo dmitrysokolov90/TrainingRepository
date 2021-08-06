@@ -1,0 +1,80 @@
+
+WildScapes iOS Ent v225
+Version (184747) 2.2.7.2306
+iPhone 12 ios 14.1
+ipad 5 ios 11.2.1
+Iphone 7+ ios 12.2
+
+
+WildScapes iOS Ent v230 (no tests)
+Version (181896) 2.3.2.1442
+Iphone 7+ ios 12.2
+
+
+
+ipad Air 4 ios 14.1
+Iphone 8 ios 11.0.2
+ipad Air 2 ios 12.4.1
+ipad 5 ios 11.2.1
+iPhone 12 ios 14.1
+Iphone 7+ ios 12.2
+ipad Air 2 ios 12.4.1
+Samsung galaxy j5 OC 7
+Pixel 5 OC 11
+Huawei P20 OC 8.1
+
+От устройства не зависит
+
+
+32161f7f-4f56-4563-b3d4-2b02ed72bb33    SonyF3112
+9a341fcc-4c62-4256-9b2c-ed6aa5d106a1    Хонор 10i  yiVICAnXOT
+
+e4cc66b74683d774b036698eeff13f05       mac
+
+ef0d15d7-e7a4-4592-bbd4-de49c78de6bd  GooglePixel 5
+370f8166-7070-4b9a-89ad-0b36ec28bec2  самсунг
+f6706c15-82f9-4fe6-bdb8-699ff0c7b02c  хуавей p20
+
+66251879-CEA2-40A4-8C36-A28980437D10   айпад аэр 4
+
+
+DCC23C22-2493-43BE-96B8-45117482F8D2  iPhone 12
+62BD56AC-3C38-417B-975C-D148F996F6D5  айфон 7+
+4AF1C5A7-74FF-4112-BE3D-3635B6E2E999  айпад 5
+
+D835E0CA-CD44-402A-B412-7CE0CE422B5B   айпад 5  Ios 13.3.1 не профиль
+417AF465-C65A-4D1F-A468-5590121425AC   iPhone 5s
+F8800A12-3529-4EFC-9A91-1FA692560A09   айпад 2
+21B46809-E031-4686-9F0D-3A7C53820798   Phone 8
+
+C:\Users\sokolov-d\AppData\Local\Android\Sdk
+
+adb logcat -d > log.txt
+
+
+"{\"id\":\"eLgnby\",\"bt\":6,\"dv\":\"62BD56AC-3C38-417B-975C-D148F996F6D5\",\"cn\":\"1234567890AB\"}"
+
+https://drive.google.com/drive/u/0/folders/16nZFLgOvWIVDxhPSMkQKQme1UzMjcuvN
+
+Скриншоты уровней.
+
+https://drive.google.com/drive/u/0/folders/1Fw-KyV0T_f7uc2hpPi9hqVu9lVyjpoN7
+
+Скрины WC уровней.
+
+ssh-keygen -t rsa -b 4096 -C "dmitry.sokolov@playrix.com"
+
+
+https://youtu.be/QeXwDf2hUzE 
+
+https://playrix.slack.com/archives/C047KD8FA/p1611733663164600 по Питону лекции советы
+
+
+@Людмила Колесниченко за тобой числится
+00011030	Планшет Apple iPad 2017 128Gb wi-fi Grey
+00006720	Планшет Samsung Galaxy Tab S3 9.7 SM-T820 Wi-Fi 32Gb Black
+00012057	Смартфон Apple iPhone 12 Pro 128GB
+00008491	Смартфон Apple iPhone 8 64Gb
+@Анастасия Грицихина / Anastasia Gritsikhina (away through Monday) поможешь с возвратом? 
+00012057	Смартфон Apple iPhone 12 Pro 128GB нужно забрать в офис
+а остальные 3 отправить Васильева София
