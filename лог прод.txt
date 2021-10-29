@@ -1,0 +1,167 @@
+ python sync.py -s prod-test -p ios gplay amazon mac win huawei samsung -v 4.9.1 -f _levels _levels_contest
+Start make archive './prod/ios/4.9.1/_levels'
+Start make archive './prod/ios/4.9.1/_levels_contest'
+End make archive './prod/ios/4.9.1/_levels_contest'
+End make archive './prod/ios/4.9.1/_levels'
+Download manifest https://test-cdn-playrix-com.s3.eu-central-1.amazonaws.com/test-homescapes-01/prod/ios/4.9.1/manifest.xml?t=6386037
+ok
+update manifest file for folder "./prod/ios/4.9.1/"
+
+Manifest version: 20211021T171443
+
+Calc hash for 'tmp\ios\4.9.1\20211021T171443/_levels.zip'
+Calc hash for 'tmp\ios\4.9.1\20211021T171443/_levels_contest.zip'
+_levels- equal to file in cdn, file not upload to cdn
+_levels_contest- equal to file in cdn, file not upload to cdn
+save manifest file
+update manifest file - done
+Start make archive './prod/gplay/4.9.1/_levels'
+Start make archive './prod/gplay/4.9.1/_levels_contest'
+End make archive './prod/gplay/4.9.1/_levels_contest'
+End make archive './prod/gplay/4.9.1/_levels'
+Download manifest https://test-cdn-playrix-com.s3.eu-central-1.amazonaws.com/test-homescapes-01/prod/gplay/4.9.1/manifest.xml?t=6386037
+ok
+update manifest file for folder "./prod/gplay/4.9.1/"
+
+Manifest version: 20211021T171443
+
+Calc hash for 'tmp\gplay\4.9.1\20211021T171443/_levels.zip'
+Calc hash for 'tmp\gplay\4.9.1\20211021T171443/_levels_contest.zip'
+_levels- equal to file in cdn, file not upload to cdn
+_levels_contest- equal to file in cdn, file not upload to cdn
+save manifest file
+update manifest file - done
+Start make archive './prod/amazon/4.9.1/_levels'
+Start make archive './prod/amazon/4.9.1/_levels_contest'
+End make archive './prod/amazon/4.9.1/_levels_contest'
+End make archive './prod/amazon/4.9.1/_levels'
+Download manifest https://test-cdn-playrix-com.s3.eu-central-1.amazonaws.com/test-homescapes-01/prod/amazon/4.9.1/manifest.xml?t=6386037
+ok
+update manifest file for folder "./prod/amazon/4.9.1/"
+
+Manifest version: 20211021T171443
+
+Calc hash for 'tmp\amazon\4.9.1\20211021T171443/_levels.zip'
+Calc hash for 'tmp\amazon\4.9.1\20211021T171443/_levels_contest.zip'
+_levels- equal to file in cdn, file not upload to cdn
+_levels_contest- equal to file in cdn, file not upload to cdn
+save manifest file
+update manifest file - done
+Start make archive './prod/mac/4.9.1/_levels'
+Start make archive './prod/mac/4.9.1/_levels_contest'
+End make archive './prod/mac/4.9.1/_levels_contest'
+End make archive './prod/mac/4.9.1/_levels'
+Download manifest https://test-cdn-playrix-com.s3.eu-central-1.amazonaws.com/test-homescapes-01/prod/mac/4.9.1/manifest.xml?t=6386037
+ok
+update manifest file for folder "./prod/mac/4.9.1/"
+
+Manifest version: 20211021T171443
+
+Calc hash for 'tmp\mac\4.9.1\20211021T171443/_levels.zip'
+Calc hash for 'tmp\mac\4.9.1\20211021T171443/_levels_contest.zip'
+_levels- equal to file in cdn, file not upload to cdn
+_levels_contest- equal to file in cdn, file not upload to cdn
+save manifest file
+update manifest file - done
+Start make archive './prod/win/4.9.1/_levels'
+Start make archive './prod/win/4.9.1/_levels_contest'
+End make archive './prod/win/4.9.1/_levels_contest'
+End make archive './prod/win/4.9.1/_levels'
+Download manifest https://test-cdn-playrix-com.s3.eu-central-1.amazonaws.com/test-homescapes-01/prod/win/4.9.1/manifest.xml?t=6386037
+ok
+update manifest file for folder "./prod/win/4.9.1/"
+
+Manifest version: 20211021T171443
+
+Calc hash for 'tmp\win\4.9.1\20211021T171443/_levels.zip'
+Calc hash for 'tmp\win\4.9.1\20211021T171443/_levels_contest.zip'
+_levels- equal to file in cdn, file not upload to cdn
+_levels_contest- equal to file in cdn, file not upload to cdn
+save manifest file
+update manifest file - done
+Start make archive './prod/huawei/4.9.1/_levels'
+Start make archive './prod/huawei/4.9.1/_levels_contest'
+End make archive './prod/huawei/4.9.1/_levels_contest'
+End make archive './prod/huawei/4.9.1/_levels'
+Download manifest https://test-cdn-playrix-com.s3.eu-central-1.amazonaws.com/test-homescapes-01/prod/huawei/4.9.1/manifest.xml?t=6386037
+ok
+update manifest file for folder "./prod/huawei/4.9.1/"
+
+Manifest version: 20211021T171443
+
+Calc hash for 'tmp\huawei\4.9.1\20211021T171443/_levels.zip'
+Calc hash for 'tmp\huawei\4.9.1\20211021T171443/_levels_contest.zip'
+_levels- equal to file in cdn, file not upload to cdn
+_levels_contest- equal to file in cdn, file not upload to cdn
+save manifest file
+update manifest file - done
+Start make archive './prod/samsung/4.9.1/_levels'
+Start make archive './prod/samsung/4.9.1/_levels_contest'
+End make archive './prod/samsung/4.9.1/_levels_contest'
+End make archive './prod/samsung/4.9.1/_levels'
+Download manifest https://test-cdn-playrix-com.s3.eu-central-1.amazonaws.com/test-homescapes-01/prod/samsung/4.9.1/manifest.xml?t=6386037
+ok
+update manifest file for folder "./prod/samsung/4.9.1/"
+
+Manifest version: 20211021T171443
+
+Calc hash for 'tmp\samsung\4.9.1\20211021T171443/_levels.zip'
+Calc hash for 'tmp\samsung\4.9.1\20211021T171443/_levels_contest.zip'
+_levels- equal to file in cdn, file not upload to cdn
+_levels_contest- equal to file in cdn, file not upload to cdn
+save manifest file
+update manifest file - done
+Enter password for "sokolov-d" :
+[2021.10.21 17:15:13] [root] [I] Using "adv01" environment
+[2021.10.21 17:15:13] [root] [I] Fetching credentials for Consul
+[2021.10.21 17:15:13] [root] [I] Fetching configuration for app "test-homescapes-01"
+[2021.10.21 17:15:13] [root] [I] Checking app configuration
+[2021.10.21 17:15:13] [root] [I] Fetching credentials for S3
+[2021.10.21 17:15:13] [root] [I] AWS create user for S3. Please wait..
+[2021.10.21 17:15:15] [root] [I] Start a pool of 8 processes
+[2021.10.21 17:15:15] [root] [I] Uploading files in S3. It takes some time..
+[2021.10.21 17:15:31] [root] [I] File updated /test-homescapes-01/prod/amazon/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File already exists /test-homescapes-01/prod/amazon/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File must be purged: /test-homescapes-01/prod/amazon/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File updated /test-homescapes-01/prod/gplay/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File already exists /test-homescapes-01/prod/gplay/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File must be purged: /test-homescapes-01/prod/gplay/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File updated /test-homescapes-01/prod/huawei/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File already exists /test-homescapes-01/prod/huawei/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File must be purged: /test-homescapes-01/prod/huawei/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File updated /test-homescapes-01/prod/ios/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File already exists /test-homescapes-01/prod/ios/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File must be purged: /test-homescapes-01/prod/ios/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File updated /test-homescapes-01/prod/mac/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File already exists /test-homescapes-01/prod/mac/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File must be purged: /test-homescapes-01/prod/mac/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File updated /test-homescapes-01/prod/samsung/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File already exists /test-homescapes-01/prod/samsung/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File must be purged: /test-homescapes-01/prod/samsung/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File updated /test-homescapes-01/prod/win/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File already exists /test-homescapes-01/prod/win/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] File must be purged: /test-homescapes-01/prod/win/4.9.1/manifest.xml
+[2021.10.21 17:15:31] [root] [I] Fetching Cloudfront distributions
+[2021.10.21 17:15:32] [root] [I] AWS create user for Cloudfront. Please wait..
+[2021.10.21 17:15:33] [root] [I] AWS create user for Cloudfront. Please wait..
+[2021.10.21 17:15:34] [root] [I] AWS create user for Cloudfront. Please wait..
+[2021.10.21 17:15:36] [root] [I] AWS create user for Cloudfront. Please wait..
+[2021.10.21 17:15:38] [root] [I] AWS create user for Cloudfront. Please wait..
+[2021.10.21 17:15:42] [root] [I] AWS create user for Cloudfront. Please wait..
+[2021.10.21 17:15:42] [root] [I] Found distribution "test-homescapes-01-cdn-alt.playrix.com" with id "E13VIVX1Q1W2R8"
+[2021.10.21 17:15:42] [root] [I] Purging files from Cloudfront cache
+[2021.10.21 17:15:42] [root] [I] Fetching credentials for Akamai
+[2021.10.21 17:15:43] [root] [I] Fetching Akamai resources
+[2021.10.21 17:15:44] [root] [I] Purging files from Akami cache
+[2021.10.21 17:15:45] [root] [I] Akamai-https://test-homescapes-01-cdn.playrix.com purge request "edup-D2TFhaLATcemXkMGfN8r6m" status: "Request accepted"
+[2021.10.21 17:15:45] [root] [I] Akamai purge, wait 5 seconds until purge was finished.
+[2021.10.21 17:15:46] [root] [I] Cloudfront-E13VIVX1Q1W2R8 invalidation request I1106OT9JR02GL InProgress
+[2021.10.21 17:15:46] [root] [I] Cloudfront-E13VIVX1Q1W2R8 invalidation request I1106OT9JR02GL InProgress
+[2021.10.21 17:15:50] [root] [I] Akamai purge finished.
+[2021.10.21 17:15:51] [root] [I] Cloudfront-E13VIVX1Q1W2R8 invalidation request I1106OT9JR02GL InProgress
+[2021.10.21 17:15:56] [root] [I] Cloudfront-E13VIVX1Q1W2R8 invalidation request I1106OT9JR02GL InProgress
+[2021.10.21 17:16:02] [root] [I] Cloudfront-E13VIVX1Q1W2R8 invalidation request I1106OT9JR02GL InProgress
+[2021.10.21 17:16:07] [root] [I] Cloudfront-E13VIVX1Q1W2R8 invalidation request I1106OT9JR02GL InProgress
+[2021.10.21 17:16:12] [root] [I] Cloudfront-E13VIVX1Q1W2R8 invalidation request I1106OT9JR02GL InProgress
+[2021.10.21 17:16:17] [root] [W] Cloudfront-E13VIVX1Q1W2R8 invalidation request I1106OT9JR02GL unfinished for 30 seconds
+[2021.10.21 17:16:18] [root] [I] Done
