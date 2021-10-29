@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Frames coords="left-bottom">
+	<frame x="227" y="91" width="99" height="99" innerX="0" innerY="0" frameWidth="99" frameHeight="99" id="UI_Bubble_back" />
+	<frame x="3" y="2" width="219" height="233" innerX="0" innerY="0" frameWidth="219" frameHeight="233" id="UI_Bubble_circle" />
+	<frame x="225" y="2" width="178" height="85" innerX="0" innerY="0" frameWidth="178" frameHeight="85" id="UI_Bubble_circle_top" />
+	<frame x="439" y="59" width="27" height="23" innerX="0" innerY="0" frameWidth="27" frameHeight="23" id="UI_Bubble_fill" />
+	<frame x="406" y="59" width="29" height="27" innerX="0" innerY="0" frameWidth="29" frameHeight="27" id="UI_Bubble_fill_back" />
+	<frame x="427" y="89" width="51" height="110" innerX="1" innerY="0" frameWidth="52" frameHeight="110" id="UI_Bubble_knot" />
+	<frame x="226" y="193" width="21" height="22" innerX="0" innerY="0" frameWidth="21" frameHeight="22" id="UI_Bubble_knot_shadow" />
+	<frame x="330" y="89" width="93" height="94" innerX="5" innerY="3" frameWidth="100" frameHeight="100" id="UI_Reward_MortasMoves" />
+	<frame x="347" y="185" width="75" height="34" innerX="0" innerY="0" frameWidth="75" frameHeight="35" id="UI_Bubble_rope" />
+	<frame x="406" y="2" width="57" height="53" innerX="0" innerY="0" frameWidth="57" frameHeight="53" id="UI_Bubble_timer" />
+</Frames>
