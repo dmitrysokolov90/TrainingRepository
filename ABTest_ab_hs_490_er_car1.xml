@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mainroot>
+<root>
+	<ABTests>
+		<abtest id="ab_hs_490_er_car1"
+			status="1"
+			rules='{
+				"groups": {
+					"control": {"weight": 33, "params": {"ab_hs_490_er_car1":"control"}},
+					"test1": {"weight": 33, "params": {"ab_hs_490_er_car1":"test1"}},
+					"test2": {"weight": 33, "params": {"ab_hs_490_er_car1":"test2"}}
+				}
+			}'
+			join='(gameInfo:GetPlayerLevel() &gt;= 22)
+			and (GetBuildStore() == "googleplay")
+			and (AB("cheater") == "false")
+			and not
+			(
+				AB_InTest("ab_hs_480_questbalance_newp")
+			)
+			'
+			stay="true"
+			total="2370000"
+		/>
+	</ABTests>
+</root>
+</mainroot>
