@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mainroot>
+<root>
+	<ABTests>
+		<abtest id="aa_500_hs_test_newplayer_gp"
+			status="1"
+			rules='{
+				"groups": {
+					"control": {"weight": 50, "params": {}},
+					"test": {"weight": 50, "params": {}}
+				}
+			}'
+			join='(GetBuildStore() == "googleplay")
+			and (AB("cheater") == "false")
+			and (AB_NoOtherTest())
+			and (gameInfo:getGlobalBool("IsNewPlayer"))
+			and (GlobalVarsGetInt("FirstRunTimeStamp", 0) &gt;= 1639378800)
+			'
+			stay="true"
+			total="2400000"
+		/>
+	</ABTests>
+</root>
+</mainroot>
