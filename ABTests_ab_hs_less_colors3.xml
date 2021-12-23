@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mainroot>
+<root>
+	<ABTests>
+		<abtest id="ab_hs_less_colors3"
+			status="1"
+			rules='{
+				"groups": {
+					"control": {"weight": 50, "params": {"AB_lessColors3":"control"}},
+					"test": {"weight": 50, "params": {"AB_lessColors3":"test"}}
+				}
+			}'
+			join='(gameInfo:getGlobalBool("IsNewPlayer"))
+			and (GetBuildStore() == "googleplay")
+			and (AB("cheater") == "false")
+			and (AB_NoOtherTest())
+			'
+			stay="true"
+			total="1600000"
+		/>
+	</ABTests>
+</root>
+</mainroot>
