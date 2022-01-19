@@ -15,7 +15,7 @@
 			and (AB_NoOtherTest())
 			'
 			stay="true"
-			total="1600000"
+			total="160000"
 		/>
 	</ABTests>
 </root>
