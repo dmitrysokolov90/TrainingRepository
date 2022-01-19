@@ -2,7 +2,6 @@
 <mainroot>
 <root>
 	<ABTests>
-		<abtest id="ab_hs_less_colors3"
 			status="1"
 			rules='{
 				"groups": {
